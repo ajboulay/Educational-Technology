@@ -10,6 +10,5 @@ This Repo holds: Instructional Design, Adult Learning, eLearning Courseware Deve
 - 
 - Content of this Repo is protected under Mozzilla 2.0 Licence.
 - Please cite use of sourcecode, (IEEE and ACM style citation)
-- "<author(s) names> (<date>) <title of program/source code> (<code version>) [<type>]"
 - or use the CITATION.cff file in the root.
 - Thanks. 
