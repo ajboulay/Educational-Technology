@@ -1,8 +1,15 @@
 # Educational-Technology
 This Repo holds: Instructional Design, Adult Learning, eLearning Courseware Development, Automation, Computer Programming. 
+- 
 - Planning and Design Documents for eLearning Courses
 - SCORM, xAPI and simular content packages, log files and metadata files
 - HTML, CSS and JavaScript Interaction software files
 - Automation software files for Educational Technology
 - Courseware Development files, (content, media, quizzes, checklists, guided questions, readings, ebooks, etc)
-- Notes, papers, links, fascicles, etc. 
+- Notes, papers, links, fascicles, etc.
+- 
+- Content of this Repo is protected under Mozzilla 2.0 Licence.
+- Please cite use of sourcecode, (IEEE and ACM style citation)
+- <author(s) names> (<date>) <title of program/source code> (<code version>) [<type>]
+- or use the CITATION.cff file in the root.
+- Thanks. 
